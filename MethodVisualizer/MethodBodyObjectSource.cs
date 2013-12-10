@@ -1,7 +1,5 @@
 using System;
-using System.Reflection.Emit;
 using System.IO;
-using System.Collections.Generic;
 using Microsoft.VisualStudio.DebuggerVisualizers;
 using System.Runtime.Serialization.Formatters.Binary;
 using ClrTest.Reflection;
